@@ -1,6 +1,26 @@
-# 大明王朝.skill
+<h1 align="center">大明王朝.skill</h1>
 
-### 你的职场，不缺鸡汤，缺的是一个懂权力结构的军师。
+<p align="center">
+<strong>你的职场，不缺鸡汤，缺的是一个懂权力结构的军师。</strong>
+</p>
+
+<p align="center">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
+  <img src="https://img.shields.io/badge/Claude_Code-Skill-blue.svg" alt="Claude Code Skill">
+  <img src="https://img.shields.io/badge/AgentSkills-Standard-brightgreen.svg" alt="AgentSkills Standard">
+  <img src="https://img.shields.io/badge/无依赖-纯方法论-orange.svg" alt="No Dependencies">
+</p>
+
+<p align="center">
+输入你的职场处境，嘉靖 · 严嵩 · 胡宗宪 · 海瑞<br>
+四个视角帮你拆解每一场权力博弈
+</p>
+
+<p align="center">
+  <a href="#安装">安装</a> · <a href="#使用">使用</a> · <a href="#demo">效果示例</a> · <a href="#为什么是大明王朝1566">为什么是这部剧</a>
+</p>
+
+---
 
 > 老板在全员会上表扬了你的方案，会后单独找你说"这个事情你先不要推了，等等看"。
 >
@@ -58,10 +78,10 @@
 ## 安装
 
 ```bash
-claude install-skill daming-dynasty
+git clone https://github.com/xiaomengwwwww/daming-dynasty-skill ~/.claude/skills/daming-dynasty
 ```
 
-或手动：将 `SKILL.md` 放入你的 Claude Code Skills 目录。
+或将 `SKILL.md` 手动放入你的 Claude Code Skills 目录。
 
 ## 使用
 
@@ -89,7 +109,7 @@ daming-dynasty/
 
 没有脚本，没有依赖。纯方法论框架。
 
-好的分析不需要复杂的技术栈，需要的是精准的思维模型。Anthropic 的前端设计 Skill 拿了 12 万安装，它也只是一段写得非常好的指令。
+好的分析不需要复杂的技术栈，需要的是精准的思维模型。
 
 ---
 
@@ -124,4 +144,4 @@ MIT
 
 ---
 
-*如果你觉得分析准得让你后背发凉，请给个 ⭐*
+<p align="center"><i>如果你觉得分析准得让你后背发凉，请给个 ⭐</i></p>
