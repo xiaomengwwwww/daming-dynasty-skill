@@ -1,7 +1,7 @@
 <h1 align="center">大明王朝.skill</h1>
 
 <p align="center">
-<strong>你的职场，不缺鸡汤，缺的是一个懂权力结构的军师。</strong>
+<strong>大明第一不粘锅 · 你的职场，不缺鸡汤，缺的是一个懂权力结构的军师。</strong>
 </p>
 
 <p align="center">
